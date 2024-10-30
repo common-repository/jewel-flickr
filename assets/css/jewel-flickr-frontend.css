@@ -1,0 +1,41 @@
+/* This is frontend css */
+.jltflickr-0 img{
+	display: block;
+    width: 100%;
+    padding: 5px;
+    height: 180px;
+}
+.jltflickr-1 img{
+	display: block;
+    width: 100%;
+    padding: 5px;
+    height: 180px;
+}
+.jltflickr-2 img{
+	display: block;
+    width: 50%;
+    padding: 5px;
+    float: left;
+    height: 125px;
+}
+.jltflickr-3 img{
+	display: block;
+    width: 33.3%;
+    padding: 5px;
+    float: left;
+    height: 100px;
+}
+.jltflickr-4 img{
+	display: block;
+    width: 25%;
+    padding: 5px;
+    float: left;
+    height: 100px;
+}
+.jltflickr-5 img{
+	display: block;
+    width: 20%;
+    padding: 5px;
+    float: left;
+    height: 75px;
+}
